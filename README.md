@@ -29,5 +29,8 @@ _**This will italicize and Bold**_
   - item
   - item
 
-
+| Name         | Role          | Department       |
+|--------------|---------------|------------------|
+| John Doe     | Instructor    | Data Science     |
+| Jane Smith   | Student       | Machine Learning |
 
