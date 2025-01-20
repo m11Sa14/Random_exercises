@@ -1,4 +1,4 @@
-# Cohort-3.0-Python-Programming-Fellowship-Assignments
+# Cohort-3.0-Python-Programming-Fellowship
 LEARNING DATA SCIENCE
 So this is Week one assignment
 which is basically how to 
